@@ -1,0 +1,22 @@
+.main {
+  min-height: 150vh;
+}
+
+.main2 {
+  min-height: 80vh;
+}
+
+.Menu {
+  float: left;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Menu label{
+  font-size: 17px;
+}
+
+.Menu h3 {
+  font-weight: normal;
+  color: green;
+}

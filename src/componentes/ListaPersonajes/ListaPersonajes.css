@@ -1,0 +1,10 @@
+.ListaPersonajes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 0px 10px;
+  background-color: white;
+  min-height: 150vh;
+  align-items: baseline;
+  align-content: baseline;
+  margin-right: 10px;
+} 
